@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arielpierot)
 
-As a Brazilian software engineer, I have a passion for technology. I have gained experience working in reputable startups within my home country. I'm ready to join forces with the open-source communities! My skills and passion are fully dedicated to making a difference through these projects. Let's bring some awesome new ideas to life together! 🚀💻
+As a Brazilian software engineer, I have a passion for technology. I have gained experience working in reputable startups within my home country. I'm ready to join forces with the open-source community! My skills and passion are fully dedicated to making a difference through these projects. Let's bring some awesome new ideas to life together! 🚀💻
 
 
 ## Main technologies
