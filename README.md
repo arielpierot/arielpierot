@@ -18,7 +18,7 @@ As a Brazilian software engineer, I have a passion for technology. I have gained
 ## My repositories
 
 ### TMQP (Chat)
-Is a mini chat built using Golang, TCP sockets and ProtocolBuffer inspired by RabbitMQ.
+Is a simple chat written in Golang, TCP sockets and ProtocolBuffer inspired by RabbitMQ.
 - (server) https://github.com/arielpierot/tmqp-server
 - (api-client) https://github.com/arielpierot/tmqp-api-client
 - (client) https://github.com/arielpierot/tmqp-client
