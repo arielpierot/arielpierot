@@ -18,7 +18,11 @@ As a Brazilian software engineer, I have a passion for technology. I have gained
 ## Projects
 
 ### TMQP (Chat)
-Is a mini chat built using Golang, TCP and ProtocolBuffer inspired by RabbitMQ.
+Is a mini chat built using Golang, TCP sockets and ProtocolBuffer inspired by RabbitMQ.
 - (server) https://github.com/arielpierot/tmqp-server
 - (api-client) https://github.com/arielpierot/tmqp-api-client
 - (client) https://github.com/arielpierot/tmqp-client
+
+### Algorithms Graph Theory
+Is a repository including famous algorithms like Dijsktra, Bellman-Ford, Kruskal and Prim written in Go Programming Language.
+- https://github.com/arielpierot/grafos
