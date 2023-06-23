@@ -14,7 +14,6 @@ As a Brazilian software engineer, I have a passion for technology. I have gained
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-
 ## My repositories
 
 ### TMQP (Chat)
@@ -30,3 +29,11 @@ Is a repository including famous algorithms like Dijsktra, Bellman-Ford, Kruskal
 ### Algorithms
 Is a repository including famous algorithms like quicksort, mergesort and heapsort written in Go Programming Language.
 - https://github.com/arielpierot/algoritmos-ufs
+
+
+## Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielpierot/arielpierot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielpierot/arielpierot/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arielpierot/arielpierot/output/github-contribution-grid-snake.svg">
+</picture>
